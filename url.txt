@@ -1,0 +1,14 @@
+Eureka: 
+http://localhost:8761/
+
+ACCOUNT-SERVICE:
+http://localhost:8081
+
+PRODUCT-SERVICE: 
+http://localhost:8082
+
+SHOPPING-SERVICE:
+http://localhost:8080
+
+ZUUL-GATEWAY:
+http://localhost:2020
